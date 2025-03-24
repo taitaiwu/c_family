@@ -1,0 +1,20 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\bin\Debug\net8.0-windows\WpfApp4 - string processing.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\bin\Debug\net8.0-windows\WpfApp4 - string processing.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\bin\Debug\net8.0-windows\WpfApp4 - string processing.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\bin\Debug\net8.0-windows\WpfApp4 - string processing.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\bin\Debug\net8.0-windows\WpfApp4 - string processing.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\refint\WpfApp4 - string processing.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\WpfApp4 - string processing.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp4 - string processing\WpfApp4 - string processing\obj\Debug\net8.0-windows\ref\WpfApp4 - string processing.dll

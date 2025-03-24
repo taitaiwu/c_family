@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework1\\Homework1 - direction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C190A79-5B5C-495A-9A34-4814F3DE21F6}|Homework1 - direction\\Homework1 - direction.csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\homework1\\homework1 - direction\\homework1 - direction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C190A79-5B5C-495A-9A34-4814F3DE21F6}|Homework1 - direction\\Homework1 - direction.csproj|solutionrelative:homework1 - direction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C190A79-5B5C-495A-9A34-4814F3DE21F6}|Homework1 - direction\\Homework1 - direction.csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\homework1\\homework1 - direction\\homework1 - direction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C190A79-5B5C-495A-9A34-4814F3DE21F6}|Homework1 - direction\\Homework1 - direction.csproj|solutionrelative:homework1 - direction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework1\\Homework1 - direction\\Homework1 - direction\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework1 - direction\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework1\\Homework1 - direction\\Homework1 - direction\\MainWindow.xaml",
+              "RelativeToolTip": "Homework1 - direction\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T15:11:27.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework1\\Homework1 - direction\\Homework1 - direction\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework1 - direction\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework1\\Homework1 - direction\\Homework1 - direction\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework1 - direction\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:11:25.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

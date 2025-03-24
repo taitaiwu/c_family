@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework2\\Homework2 - calculator(easy)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB281E8-D321-4672-813D-B6DB640FD342}|Homework2 - calculator(easy)\\Homework2 - calculator(easy).csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\homework2\\homework2 - calculator(easy)\\homework2 - calculator(easy)\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB281E8-D321-4672-813D-B6DB640FD342}|Homework2 - calculator(easy)\\Homework2 - calculator(easy).csproj|solutionrelative:homework2 - calculator(easy)\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB281E8-D321-4672-813D-B6DB640FD342}|Homework2 - calculator(easy)\\Homework2 - calculator(easy).csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\homework2\\homework2 - calculator(easy)\\homework2 - calculator(easy)\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DB281E8-D321-4672-813D-B6DB640FD342}|Homework2 - calculator(easy)\\Homework2 - calculator(easy).csproj|solutionrelative:homework2 - calculator(easy)\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework2\\Homework2 - calculator(easy)\\Homework2 - calculator(easy)\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework2 - calculator(easy)\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework2\\Homework2 - calculator(easy)\\Homework2 - calculator(easy)\\MainWindow.xaml",
+              "RelativeToolTip": "Homework2 - calculator(easy)\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:50:27.811Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework2\\Homework2 - calculator(easy)\\Homework2 - calculator(easy)\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework2 - calculator(easy)\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\\u56DE\u5BB6\u4F5C\u696D\\Homework2\\Homework2 - calculator(easy)\\Homework2 - calculator(easy)\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework2 - calculator(easy)\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:50:27.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

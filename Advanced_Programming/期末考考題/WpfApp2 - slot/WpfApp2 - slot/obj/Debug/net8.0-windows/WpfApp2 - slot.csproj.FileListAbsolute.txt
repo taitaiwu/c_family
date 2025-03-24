@@ -1,0 +1,20 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\bin\Debug\net8.0-windows\WpfApp2 - slot.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\bin\Debug\net8.0-windows\WpfApp2 - slot.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\bin\Debug\net8.0-windows\WpfApp2 - slot.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\bin\Debug\net8.0-windows\WpfApp2 - slot.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\bin\Debug\net8.0-windows\WpfApp2 - slot.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\refint\WpfApp2 - slot.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\WpfApp2 - slot.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp2 - slot\WpfApp2 - slot\obj\Debug\net8.0-windows\ref\WpfApp2 - slot.dll

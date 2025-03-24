@@ -1,0 +1,121 @@
+﻿<Window x:Class="Homework4___booking_system.Booking_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework4___booking_system"
+        mc:Ignorable="d"
+        Title="Booking_window" Height="850" Width="1510"
+        ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" Top="1"> 
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                <Image Name="movie" Width="540" Height="810"></Image>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <StackPanel Orientation="Vertical" VerticalAlignment="Center" Background="#caf5fe" Height="120">
+                        <Label Name="title" FontSize="50" Width="660" Height="70" HorizontalContentAlignment="Left" ></Label>
+                        <Label Name="eng_title" FontSize="30" HorizontalContentAlignment="Left"></Label>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" VerticalAlignment="Center" Background="#e8feca" Height="120">
+                        <Label Name="information" Content="🕑" FontSize="20" Width="300" VerticalAlignment="Center"></Label>
+                        <Label Content="🏬 金門大學店"  FontSize="20" Width="300" VerticalAlignment="Center"></Label>
+                    </StackPanel>
+                </StackPanel>
+
+                <Label Background="#ebeb94"></Label>
+                <Label Name="detail" Content="演員:" FontSize="30" Background="#ead1ef"></Label>
+                <Label Name="hyper" Content="超連結:" FontSize="30" Background="#ead1ef"></Label>
+
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel  Orientation="Horizontal">
+                            <GroupBox Header="影廳類型" Width="250">
+                                <Viewbox Height="250" HorizontalAlignment="Left">
+                                    <StackPanel>
+                                        <RadioButton Content="2D 影廳 $350" IsChecked="True" Margin="0,5" Checked="room_checked"></RadioButton>
+                                        <RadioButton Content="3D 影廳 $420" Margin="0,5" Checked="room_checked"></RadioButton>
+                                        <RadioButton Content="IMAX 影廳 $550" Margin="0,5" Checked="room_checked"></RadioButton>
+                                        <RadioButton Content="4DX 影廳 $620" Margin="0,5" Checked="room_checked"></RadioButton>
+                                        <RadioButton Content="TITAN 廳 $440" Margin="0,5" Checked="room_checked"></RadioButton>
+                                        <RadioButton Content="MUCROWN 廳 $900"  Margin="0,5" Checked="room_checked"></RadioButton>
+                                    </StackPanel>
+                                </Viewbox>
+                            </GroupBox>
+
+                            <GroupBox Header="票種選擇" Width="250" Margin="10,0,0,0">
+                                <Viewbox Height="250" HorizontalAlignment="Left">
+                                    <StackPanel>
+                                        <RadioButton Name="normal" Content="普通全票 " IsChecked="True" Margin="0,5"  Checked="ticket_checked"></RadioButton>
+                                        <RadioButton Name="child" Content="孩童票 6折" Margin="0,5" Checked="ticket_checked"></RadioButton>
+                                        <RadioButton Name="student" Content="學生票 9折" Margin="0,5" Checked="ticket_checked"></RadioButton>
+                                        <RadioButton Name="nqu_shop" Content="金門大學店會員 85折" Margin="0,5" Checked="ticket_checked"></RadioButton>
+                                        <RadioButton Name="nqu" Content="金門大學特約 8折" Margin="0,5" Checked="ticket_checked"></RadioButton>
+                                        <RadioButton Name="chsc" Content="彰化高商特約 8折"  Margin="0,5" Checked="ticket_checked"></RadioButton>
+                                    </StackPanel>
+                                </Viewbox>
+                            </GroupBox>
+                        </StackPanel>
+
+                        <GroupBox Header="餐飲選擇" Width="510">
+                            <Viewbox Height="250" HorizontalAlignment="Left">
+                                <StackPanel Orientation="Vertical">
+                                    <StackPanel Orientation="Horizontal">
+                                        <StackPanel Orientation="Vertical" Name="food_check">
+                                            <CheckBox Name="L_cola" Content="大杯可樂 $77" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                            <CheckBox Name="M_cola" Content="中杯可樂 $68" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                            <CheckBox Name="S_cola" Content="小杯可樂 $64" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                        </StackPanel>
+
+                                        <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                            <CheckBox Name="L_popcorn" Content="大爆米花 $145" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                            <CheckBox Name="M_popcorn" Content="中爆米花 $136" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                            <CheckBox Name="S_popcorn" Content="小爆米花 $128" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                        </StackPanel>
+
+                                        <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                            <CheckBox Name="hotdog" Content="熱狗 $140" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                            <CheckBox Name="gina" Content="吉拿棒 $140" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                        </StackPanel>
+                                    </StackPanel>
+
+                                    <StackPanel Orientation="Vertical">
+                                        <CheckBox Name="special" Content="特約加購優惠套餐 中可樂+小爆米花 $49" IsEnabled="False" IsChecked="False" Margin="0,5"  Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                        <CheckBox Name="vip" Content="會員網訂優惠套餐 中可樂+小爆米花 $80" IsEnabled="False" IsChecked="False" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                        <CheckBox Name="nor_web" Content="一般網訂優惠套餐 中可樂+小爆米花 $130" Margin="0,5" Checked="food_checked" Unchecked="food_uncheck"></CheckBox>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Viewbox>
+                        </GroupBox>
+
+                        <StackPanel Orientation="Horizontal" Margin="0,4,0,0">
+                            <Label Content="※份數(至多10份) : " FontSize="20"></Label>
+                            <Button Name="decrease" Content="-" FontSize="20" Width="30" Height="30" Click="num_click"></Button>
+                            <Label Name="num" Content="1" FontSize="20"></Label>
+                            <Button Name="increase" Content="+" FontSize="20" Width="30" Height="30" Click="num_click"></Button>
+                            <Button Name="add" Content="加入購票清單" FontSize="20" Height="30" Margin="125,0,0,0" Click="add_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                        <GroupBox Header="購票清單" Width="430" Height="545">
+                            <StackPanel>
+                                <ListBox Name="cart" FontSize="20" Width="380" Height="450" Margin="10"></ListBox>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+                                    <Label Name="price" Content="※ 金額:$0" FontSize="25" Margin="0,0,30,0"></Label>
+                                    <Button Name="delete" Content="刪除所選" FontSize="25" Click="delete_click"></Button>
+                                    <Button Name="clear" Content="全部清空" FontSize="25" Margin="10,0,0,0" Click="delete_click"></Button>
+                                </StackPanel>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <Button Name="back" Content="回主頁" FontSize="20" Height="30" Margin="0,6,0,0" Click="back_Click"></Button>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

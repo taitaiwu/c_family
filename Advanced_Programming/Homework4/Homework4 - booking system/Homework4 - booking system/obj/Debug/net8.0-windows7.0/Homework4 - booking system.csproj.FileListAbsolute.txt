@@ -1,0 +1,48 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\refint\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\ref\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.exe
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.deps.json
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.g.cs
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.g.cs
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.baml
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.baml
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.g.resources
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\refint\Homework4 - booking system.dll
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\ref\Homework4 - booking system.dll

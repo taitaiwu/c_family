@@ -1,0 +1,35 @@
+﻿<Window x:Class="Homework1___direction.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework1___direction"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel HorizontalAlignment="Center">
+                <Label Name="label0" FontSize="50" Foreground="Black">Ｎ</Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Name="label3" FontSize="50" Foreground="Blue" Margin="0,0,100,0">Ｗ</Label>
+                <Label Name="label1" FontSize="50" Foreground="Red" Margin="100,0,0,0">Ｅ</Label>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+                <Label Name="label2" FontSize="50" Foreground="Green" Width="65">Ｓ</Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                <Button Name="left" Width="100" Height="50" Margin="0,0,50,0" Click="direction_Click">
+                    <Button.Content>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">←</TextBlock>
+                    </Button.Content>
+                </Button>
+                <Button Name="right" Width="100" Height="50" Margin="50,0,0,0" Click="direction_Click">
+                <Button.Content>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">→</TextBlock>
+                </Button.Content>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3 - polynomial", "WpfApp3 - polynomial\WpfApp3 - polynomial.csproj", "{DC4D9CB3-A224-47E5-B50F-F97F7A87EC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4D9CB3-A224-47E5-B50F-F97F7A87EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4D9CB3-A224-47E5-B50F-F97F7A87EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4D9CB3-A224-47E5-B50F-F97F7A87EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4D9CB3-A224-47E5-B50F-F97F7A87EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4425706C-3DEA-40A7-9D38-49698EDB2E9E}
+	EndGlobalSection
+EndGlobal

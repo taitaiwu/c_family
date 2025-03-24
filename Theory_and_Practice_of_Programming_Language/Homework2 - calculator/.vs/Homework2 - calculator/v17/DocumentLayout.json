@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\Desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework2 - calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39091FE5-4E09-4571-A548-A26D702B0367}|Homework2 - calculator\\Homework2 - calculator.csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework2 - calculator\\homework2 - calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39091FE5-4E09-4571-A548-A26D702B0367}|Homework2 - calculator\\Homework2 - calculator.csproj|solutionrelative:homework2 - calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39091FE5-4E09-4571-A548-A26D702B0367}|Homework2 - calculator\\Homework2 - calculator.csproj|c:\\users\\s1112\\onedrive\\\u684C\u9762\\desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework2 - calculator\\homework2 - calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39091FE5-4E09-4571-A548-A26D702B0367}|Homework2 - calculator\\Homework2 - calculator.csproj|solutionrelative:homework2 - calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\Desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework2 - calculator\\Homework2 - calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework2 - calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\Desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework2 - calculator\\Homework2 - calculator\\Form1.cs",
+              "RelativeToolTip": "Homework2 - calculator\\Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:21:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\Desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework2 - calculator\\Homework2 - calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework2 - calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\s1112\\OneDrive\\\u684C\u9762\\Desktop\\\u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework2 - calculator\\Homework2 - calculator\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Homework2 - calculator\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:19:59.372Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

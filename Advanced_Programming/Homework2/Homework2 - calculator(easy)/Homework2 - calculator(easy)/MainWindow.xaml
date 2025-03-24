@@ -1,0 +1,69 @@
+﻿<Window x:Class="Homework2___calculator_easy_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework2___calculator_easy_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Ａ：" FontSize="50"></Label>
+                <TextBox Name="textbox1" FontSize="45" Width="450" Height="70"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Ｂ：" FontSize="50"></Label>
+                <TextBox Name="textbox2" FontSize="45" Width="450" Height="70"></TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Result:" FontSize="50" Width="153"></Label>
+                <TextBox Name="textbox3" FontSize="45" Width="407" Height="70" RenderTransformOrigin="0.5,0.5">
+                    <TextBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleY="0.304"/>
+                            <RotateTransform/>
+                            <TranslateTransform Y="0.795"/>
+                        </TransformGroup>
+                    </TextBox.RenderTransform>
+                </TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Center">
+                <Button Name="plus" FontSize="70" Width="100" Height="70" Click="calculate">
+                    <Button.Content>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">+</TextBlock>
+                    </Button.Content>
+                </Button>
+
+                <Button Name="sub" FontSize="70" Width="100" Height="70" Margin="10,0,0,0" Click="calculate">
+                    <Button.Content>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">-</TextBlock>
+                    </Button.Content>
+                </Button>
+
+                <Button Name="mult" FontSize="70" Width="100" Height="70" Margin="10,0,0,0" Click="calculate">
+                    <Button.Content>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">×
+                        </TextBlock>
+                    </Button.Content>
+                </Button>
+
+                <Button Name="dive" FontSize="70" Width="100" Height="70" Margin="10,0,0,0" Click="calculate">
+                    <Button.Content>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">÷</TextBlock>
+                    </Button.Content>
+                </Button>
+
+                <Button Name="mod" FontSize="50" Width="100" Height="70" Margin="10,0,0,0" Click="calculate">
+                    <Button.Content>
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">%</TextBlock>
+                    </Button.Content>
+                </Button>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

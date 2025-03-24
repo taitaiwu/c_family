@@ -1,0 +1,10 @@
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\bin\Debug\Homework2 - calculator.exe.config
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\bin\Debug\Homework2 - calculator.exe
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\bin\Debug\Homework2 - calculator.pdb
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2 - calculator.csproj.AssemblyReference.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2___calculator.Form1.resources
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2___calculator.Properties.Resources.resources
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2 - calculator.csproj.GenerateResource.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2 - calculator.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2 - calculator.exe
+C:\Users\s1112\OneDrive\桌面\Desktop\程式語言理論與實務\Homework2 - calculator\Homework2 - calculator\obj\Debug\Homework2 - calculator.pdb

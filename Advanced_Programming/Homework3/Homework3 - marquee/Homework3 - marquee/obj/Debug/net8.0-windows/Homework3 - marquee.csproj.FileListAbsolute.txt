@@ -1,0 +1,20 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\refint\Homework3 - marquee.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\ref\Homework3 - marquee.dll

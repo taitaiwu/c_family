@@ -1,0 +1,10 @@
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5 - binary files read.csproj.AssemblyReference.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5___binary_files_read.Form1.resources
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5___binary_files_read.Properties.Resources.resources
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5 - binary files read.csproj.GenerateResource.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5 - binary files read.csproj.CoreCompileInputs.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\bin\Debug\Homework5 - binary files read.exe.config
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\bin\Debug\Homework5 - binary files read.exe
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\bin\Debug\Homework5 - binary files read.pdb
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5 - binary files read.exe
+C:\作業資料夾\113-2 程式語言理論與實務\Homework5 - binary files read\Homework5 - binary files read\obj\Debug\Homework5 - binary files read.pdb

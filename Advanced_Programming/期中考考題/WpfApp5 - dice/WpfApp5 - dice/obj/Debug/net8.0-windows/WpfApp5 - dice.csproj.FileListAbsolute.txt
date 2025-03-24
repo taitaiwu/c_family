@@ -1,0 +1,20 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\bin\Debug\net8.0-windows\WpfApp5 - dice.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\bin\Debug\net8.0-windows\WpfApp5 - dice.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\bin\Debug\net8.0-windows\WpfApp5 - dice.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\bin\Debug\net8.0-windows\WpfApp5 - dice.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\bin\Debug\net8.0-windows\WpfApp5 - dice.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\refint\WpfApp5 - dice.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\WpfApp5 - dice.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期中考考題\WpfApp5 - dice\WpfApp5 - dice\obj\Debug\net8.0-windows\ref\WpfApp5 - dice.dll

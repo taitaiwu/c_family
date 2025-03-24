@@ -1,0 +1,20 @@
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\bin\Debug\net8.0-windows\WpfApp1 - guess number.exe
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\bin\Debug\net8.0-windows\WpfApp1 - guess number.deps.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\bin\Debug\net8.0-windows\WpfApp1 - guess number.runtimeconfig.json
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\bin\Debug\net8.0-windows\WpfApp1 - guess number.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\bin\Debug\net8.0-windows\WpfApp1 - guess number.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number_MarkupCompile.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number_MarkupCompile.lref
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.g.resources
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.AssemblyInfoInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.AssemblyInfo.cs
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.csproj.CoreCompileInputs.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\refint\WpfApp1 - guess number.dll
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.pdb
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\WpfApp1 - guess number.genruntimeconfig.cache
+C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\期末考考題\WpfApp1 - guess number\WpfApp1 - guess number\obj\Debug\net8.0-windows\ref\WpfApp1 - guess number.dll
