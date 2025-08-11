@@ -46,3 +46,28 @@ C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homew
 C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
 C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.genruntimeconfig.cache
 C:\Users\s1112\OneDrive\桌面\Desktop\程式設計\回家作業\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\ref\Homework4 - booking system.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.exe
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.deps.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.runtimeconfig.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\bin\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system_MarkupCompile.lref
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Booking window.baml
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Choose seat.baml
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.g.resources
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.GeneratedMSBuildEditorConfig.editorconfig
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfoInputs.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.AssemblyInfo.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.csproj.CoreCompileInputs.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.sourcelink.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\refint\Homework4 - booking system.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.pdb
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\Homework4 - booking system.genruntimeconfig.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\C#\c_sharp\Advanced_Programming\Homework4\Homework4 - booking system\Homework4 - booking system\obj\Debug\net8.0-windows7.0\ref\Homework4 - booking system.dll

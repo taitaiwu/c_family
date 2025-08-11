@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework10 - circular queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD200CD-A670-42DF-835A-B7A1BB69F9FC}|Homework10 - circular queue\\Homework10 - circular queue.csproj|c:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework10 - circular queue\\homework10 - circular queue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD200CD-A670-42DF-835A-B7A1BB69F9FC}|Homework10 - circular queue\\Homework10 - circular queue.csproj|solutionrelative:homework10 - circular queue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD200CD-A670-42DF-835A-B7A1BB69F9FC}|Homework10 - circular queue\\Homework10 - circular queue.csproj|c:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework10 - circular queue\\homework10 - circular queue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD200CD-A670-42DF-835A-B7A1BB69F9FC}|Homework10 - circular queue\\Homework10 - circular queue.csproj|solutionrelative:homework10 - circular queue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework10 - circular queue\\Homework10 - circular queue\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework10 - circular queue\\Form1.cs",
+              "ToolTip": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework10 - circular queue\\Homework10 - circular queue\\Form1.cs*",
+              "RelativeToolTip": "Homework10 - circular queue\\Form1.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:55:38.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework10 - circular queue\\Homework10 - circular queue\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework10 - circular queue\\Form1.cs",
+              "ToolTip": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework10 - circular queue\\Homework10 - circular queue\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "Homework10 - circular queue\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:45:05.754Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

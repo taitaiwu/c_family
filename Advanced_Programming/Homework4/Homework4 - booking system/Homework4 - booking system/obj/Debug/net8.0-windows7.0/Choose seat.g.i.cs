@@ -117,7 +117,7 @@ namespace Homework4___booking_system {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Homework4 - booking system;V1.0.0.0;component/choose%20seat.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Homework4 - booking system;component/choose%20seat.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Choose seat.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework11 - singly linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123C0CAF-54DC-485E-9FFE-9E5D427CC466}|Homework11 - singly linked list\\Homework11 - singly linked list.csproj|c:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework11 - singly linked list\\homework11 - singly linked list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123C0CAF-54DC-485E-9FFE-9E5D427CC466}|Homework11 - singly linked list\\Homework11 - singly linked list.csproj|solutionrelative:homework11 - singly linked list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123C0CAF-54DC-485E-9FFE-9E5D427CC466}|Homework11 - singly linked list\\Homework11 - singly linked list.csproj|c:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\homework11 - singly linked list\\homework11 - singly linked list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{123C0CAF-54DC-485E-9FFE-9E5D427CC466}|Homework11 - singly linked list\\Homework11 - singly linked list.csproj|solutionrelative:homework11 - singly linked list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework11 - singly linked list\\Homework11 - singly linked list\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework11 - singly linked list\\Form1.cs",
+              "ToolTip": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework11 - singly linked list\\Homework11 - singly linked list\\Form1.cs*",
+              "RelativeToolTip": "Homework11 - singly linked list\\Form1.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:10:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework11 - singly linked list\\Homework11 - singly linked list\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework11 - singly linked list\\Form1.cs",
+              "ToolTip": "C:\\\u4F5C\u696D\u8CC7\u6599\u593E\\113-2 \u7A0B\u5F0F\u8A9E\u8A00\u7406\u8AD6\u8207\u5BE6\u52D9\\Homework11 - singly linked list\\Homework11 - singly linked list\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "Homework11 - singly linked list\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:03:14.149Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

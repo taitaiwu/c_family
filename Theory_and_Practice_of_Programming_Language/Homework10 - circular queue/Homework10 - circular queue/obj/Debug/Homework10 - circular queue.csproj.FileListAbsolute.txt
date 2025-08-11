@@ -1,0 +1,10 @@
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\bin\Debug\Homework10 - circular queue.exe.config
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\bin\Debug\Homework10 - circular queue.exe
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\bin\Debug\Homework10 - circular queue.pdb
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10 - circular queue.csproj.AssemblyReference.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10___circular_queue.Form1.resources
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10___circular_queue.Properties.Resources.resources
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10 - circular queue.csproj.GenerateResource.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10 - circular queue.csproj.CoreCompileInputs.cache
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10 - circular queue.exe
+C:\作業資料夾\113-2 程式語言理論與實務\Homework10 - circular queue\Homework10 - circular queue\obj\Debug\Homework10 - circular queue.pdb
