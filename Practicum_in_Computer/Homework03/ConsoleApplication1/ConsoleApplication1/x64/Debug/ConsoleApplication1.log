@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Practicum_in_Computer\Homework03\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,11): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+      C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Practicum_in_Computer\Homework03\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,11):
+      預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+      C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Practicum_in_Computer\Homework03\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,11):
+      缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+      C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Practicum_in_Computer\Homework03\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,11):
+      此引數可用為緩衝區大小
+  
+  ConsoleApplication1.vcxproj -> C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Practicum_in_Computer\Homework03\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

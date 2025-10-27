@@ -18,3 +18,24 @@ C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - m
 C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.pdb
 C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.genruntimeconfig.cache
 C:\Users\s1112\OneDrive\桌面\程式設計\回家作業\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\ref\Homework3 - marquee.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.exe
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.deps.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.runtimeconfig.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\bin\Debug\net8.0-windows\Homework3 - marquee.pdb
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\App.g.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee_MarkupCompile.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee_MarkupCompile.lref
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\MainWindow.baml
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.g.resources
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.GeneratedMSBuildEditorConfig.editorconfig
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.AssemblyInfoInputs.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.AssemblyInfo.cs
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.csproj.CoreCompileInputs.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.sourcelink.json
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\refint\Homework3 - marquee.dll
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.pdb
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\Homework3 - marquee.genruntimeconfig.cache
+C:\作業資料夾\112-1~113-2 程式設計相關課程\課堂習題或回家作業\c_family\Advanced_Programming\Homework3\Homework3 - marquee\Homework3 - marquee\obj\Debug\net8.0-windows\ref\Homework3 - marquee.dll
