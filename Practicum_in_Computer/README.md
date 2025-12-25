@@ -1,4 +1,4 @@
-### 計算機技術(Practicum in Computer)
+計算機技術(Practicum in Computer)
 1. 授課老師 : 賴聯福
 2. 修課時間 : 114學年度第一學期
 3. 上課用書 : 教授自編
