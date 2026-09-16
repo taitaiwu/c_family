@@ -1,0 +1,76 @@
+# Project: elevators
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o building.o button.o car_panel.o clock.o color.o dispatcher.o door.o elevator.o floor.o hall_panel.o passenger.o passenger_generator.o simulation.o statistics.o user_input.o visualizer.o
+LINKOBJ  = main.o building.o button.o car_panel.o clock.o color.o dispatcher.o door.o elevator.o floor.o hall_panel.o passenger.o passenger_generator.o simulation.o statistics.o user_input.o visualizer.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = elevators.exe
+CXXFLAGS = $(CXXINCS) -std=c++11
+CFLAGS   = $(INCS) -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+building.o: building.cpp
+	$(CPP) -c building.cpp -o building.o $(CXXFLAGS)
+
+button.o: button.cpp
+	$(CPP) -c button.cpp -o button.o $(CXXFLAGS)
+
+car_panel.o: car_panel.cpp
+	$(CPP) -c car_panel.cpp -o car_panel.o $(CXXFLAGS)
+
+clock.o: clock.cpp
+	$(CPP) -c clock.cpp -o clock.o $(CXXFLAGS)
+
+color.o: color.cpp
+	$(CPP) -c color.cpp -o color.o $(CXXFLAGS)
+
+dispatcher.o: dispatcher.cpp
+	$(CPP) -c dispatcher.cpp -o dispatcher.o $(CXXFLAGS)
+
+door.o: door.cpp
+	$(CPP) -c door.cpp -o door.o $(CXXFLAGS)
+
+elevator.o: elevator.cpp
+	$(CPP) -c elevator.cpp -o elevator.o $(CXXFLAGS)
+
+floor.o: floor.cpp
+	$(CPP) -c floor.cpp -o floor.o $(CXXFLAGS)
+
+hall_panel.o: hall_panel.cpp
+	$(CPP) -c hall_panel.cpp -o hall_panel.o $(CXXFLAGS)
+
+passenger.o: passenger.cpp
+	$(CPP) -c passenger.cpp -o passenger.o $(CXXFLAGS)
+
+passenger_generator.o: passenger_generator.cpp
+	$(CPP) -c passenger_generator.cpp -o passenger_generator.o $(CXXFLAGS)
+
+simulation.o: simulation.cpp
+	$(CPP) -c simulation.cpp -o simulation.o $(CXXFLAGS)
+
+statistics.o: statistics.cpp
+	$(CPP) -c statistics.cpp -o statistics.o $(CXXFLAGS)
+
+user_input.o: user_input.cpp
+	$(CPP) -c user_input.cpp -o user_input.o $(CXXFLAGS)
+
+visualizer.o: visualizer.cpp
+	$(CPP) -c visualizer.cpp -o visualizer.o $(CXXFLAGS)

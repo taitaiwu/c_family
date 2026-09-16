@@ -1,0 +1,5 @@
+# Homework2 - Test Scores
+
+Write a program that dynamically allocates a sufficiently large array to store information for a user-specified number of students, including their names and exam scores. The program should prompt the user to enter the name and corresponding integer exam score for each student. After all data is entered, the program should pass the array to a function that sorts the student scores in ascending order, maintaining the correct association between each student's name and score. The program should also call another function to calculate the average exam score. Finally, the program should display the sorted list of student names, their corresponding scores, and the average score using appropriate headings. When iterating through the array and performing all operations, index notation should be used whenever possible, rather than array subscripts.
+
+> ***Input Validation***: Do not accept negative numbers for test scores.

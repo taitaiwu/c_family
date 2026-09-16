@@ -27,6 +27,19 @@
 
 ---
 
+## C++
+### 物件導向程式語言(Object Oriented Programming)
+1. 授課老師：詹益禎
+2. 修課時間：114 學年度第二學期
+3. 上課用書：
+  * [Starting Out with C++ Early Objects](https://www.tenlong.com.tw/products/9780134400242)
+  * [C++ Programming: From Problem Analysis to Program Design](https://www.tenlong.com.tw/products/9789814792639)
+4. 主要內容：課堂作業、專題
+5. 檔案介紹：課堂平時作業與期末專案
+6. 檔案類型：`.cpp`、`.h`
+
+---
+
 ## C#
 ### 進階程式設計(Advanced Programming)
 1. 授課老師 : 趙于翔

@@ -1,0 +1,43 @@
+# Project: homework07
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = file_filter.o encryption_filter.o uppercase_filter.o copy_filter.o line_break_removal_filter.o main.o
+LINKOBJ  = file_filter.o encryption_filter.o uppercase_filter.o copy_filter.o line_break_removal_filter.o main.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = homework07.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+file_filter.o: file_filter.cpp
+	$(CPP) -c file_filter.cpp -o file_filter.o $(CXXFLAGS)
+
+encryption_filter.o: encryption_filter.cpp
+	$(CPP) -c encryption_filter.cpp -o encryption_filter.o $(CXXFLAGS)
+
+uppercase_filter.o: uppercase_filter.cpp
+	$(CPP) -c uppercase_filter.cpp -o uppercase_filter.o $(CXXFLAGS)
+
+copy_filter.o: copy_filter.cpp
+	$(CPP) -c copy_filter.cpp -o copy_filter.o $(CXXFLAGS)
+
+line_break_removal_filter.o: line_break_removal_filter.cpp
+	$(CPP) -c line_break_removal_filter.cpp -o line_break_removal_filter.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)

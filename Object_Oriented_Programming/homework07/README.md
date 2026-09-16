@@ -1,0 +1,3 @@
+# homework07 - File Filter
+
+Design an abstract file filter class with a pure virtual function `char transform(char ch)` and a member function `void doFilter(ifstream &in, ofstream &out)` that reads from an input file, applies the character transformation, and writes the result to an output file. Derive four concrete subclasses from this base: an encryption filter whose constructor accepts an integer key and uses it to encrypt each character, an uppercase filter that converts all characters to uppercase, a copy filter that passes characters through unchanged, and a line-break removal filter that replaces every newline character in the file with a single space.
