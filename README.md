@@ -1,39 +1,39 @@
 # C 系列程式存檔
 
 ## C
+### [程式設計](Programming)(Programming)
+1. 授課老師：趙于翔
+2. 修課時間：112學年度第一學期
+3. 上課用書：[C程式設計藝術](https://www.books.com.tw/products/0010950427?srsltid=AfmBOorOsuPsCc94JKwcwtw68NxPnifrvFfbEbQ-iATKZCB3_slyvg0n)
+4. 主要內容：課堂作業
+5. 檔案介紹：課堂平時作業存檔
+6. 檔案類型：.c
 
-### 程式設計(Programming)
-1. 授課老師 : 趙于翔
-2. 修課時間 : 112學年度第一學期
-3. 上課用書 : [C程式設計藝術](https://www.books.com.tw/products/0010950427?srsltid=AfmBOorOsuPsCc94JKwcwtw68NxPnifrvFfbEbQ-iATKZCB3_slyvg0n)
-4. 主要內容 : 課堂作業
-5. 檔案介紹 : 課堂平時作業存檔
-6. 檔案類型 : .c
+### [計算機技術](Practicum_in_Computer)(Practicum in Computer)
+1. 授課老師：賴聯福
+2. 修課時間：114學年度第一學期
+3. 上課用書：教授自編
+4. 主要內容：課堂作業
+5. 檔案介紹：課堂平時作業存檔
+6. 檔案類型：.c
 
-### 計算機技術(Practicum in Computer)
-1. 授課老師 : 賴聯福
-2. 修課時間 : 114學年度第一學期
-3. 上課用書 : 教授自編
-4. 主要內容 : 課堂作業
-5. 檔案介紹 : 課堂平時作業存檔
-6. 檔案類型 : .c
-
-### 離散數學(Discrete Mathematics)
-1. 授課老師 : 詹益禎
-2. 修課時間 : 114學年度第一學期
-3. 主要內容 : 期末作業
-4. 檔案介紹 : 仿射密碼與RSA密碼系統實作
-5. 檔案類型 : .c
+### [離散數學](Discrete_Mathematics)(Discrete Mathematics)
+1. 授課老師：詹益禎
+2. 修課時間：114學年度第一學期
+3. 主要內容：期末作業
+4. 上課用書：[Discrete Mathematics and Its Applications](https://www.tenlong.com.tw/products/9781260091991)
+4. 檔案介紹：仿射密碼與RSA密碼系統實作
+5. 檔案類型：.c
 
 ---
 
 ## C++
-### 物件導向程式語言(Object Oriented Programming)
+### [物件導向程式語言](Object_Oriented_Programming)(Object Oriented Programming)
 1. 授課老師：詹益禎
 2. 修課時間：114 學年度第二學期
 3. 上課用書：
-  * [Starting Out with C++ Early Objects](https://www.tenlong.com.tw/products/9780134400242)
-  * [C++ Programming: From Problem Analysis to Program Design](https://www.tenlong.com.tw/products/9789814792639)
+    * [Starting Out with C++ Early Objects](https://www.tenlong.com.tw/products/9780134400242)
+    * [C++ Programming: From Problem Analysis to Program Design](https://www.tenlong.com.tw/products/9789814792639)
 4. 主要內容：課堂作業、專題
 5. 檔案介紹：課堂平時作業與期末專案
 6. 檔案類型：`.cpp`、`.h`
@@ -42,19 +42,19 @@
 
 ## C#
 ### 進階程式設計(Advanced Programming)
-1. 授課老師 : 趙于翔
-2. 修課時間 : 112學年度第二學期
-3. 上課用書 : 教授自編
-4. 主要內容 : 課堂作業
-5. 檔案介紹 : 課堂平時作業存檔
-6. 檔案類型 : WPF應用程式(C#)
+1. 授課老師：趙于翔
+2. 修課時間：112學年度第二學期
+3. 上課用書：教授自編
+4. 主要內容：課堂作業
+5. 檔案介紹：課堂平時作業存檔
+6. 檔案類型：WPF應用程式(C#)
 
 
 
 ### 程式語言理論與實務(Theory and Practice of Programming Language)
-1. 授課老師 : 賴聯福
-2. 修課時間 : 113學年度第二學期
-3. 上課用書 : 教授自編
-4. 主要內容 : 課堂作業
-5. 檔案介紹 : 課堂平時作業存檔
-6. 檔案類型 : Windows Forms App(.NET Framework)
+1. 授課老師：賴聯福
+2. 修課時間：113學年度第二學期
+3. 上課用書：教授自編
+4. 主要內容：課堂作業
+5. 檔案介紹：課堂平時作業存檔
+6. 檔案類型：Windows Forms App(.NET Framework)
